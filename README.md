@@ -7,6 +7,7 @@ Crea un archivo Excel con Python y lo sube a Supabase Storage.
 | Archivo | Para que sirve |
 |---|---|
 | `subir_excel.ipynb` | Notebook para abrir en Google Colab |
+| `codigo_inicial.py` | El codigo original de 2 celdas (+ opcion de tabla) |
 | `subir_excel.py` | El mismo codigo como script normal |
 | `requirements.txt` | Librerias necesarias |
 
